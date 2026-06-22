@@ -23,6 +23,9 @@ library_management_system/
 ├── database/
 │   └── db.py            # Database connection + table creation
 │
+├── sql/
+│   └── schema.sql        # Standalone SQL schema (matches db.py)
+│
 ├── models/
 │   ├── book.py           # Book CRUD operations
 │   ├── member.py         # Member CRUD operations
