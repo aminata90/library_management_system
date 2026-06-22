@@ -1,0 +1,2 @@
+# This project only uses Python's standard library (sqlite3, unittest),
+# so there are no external dependencies to install.
