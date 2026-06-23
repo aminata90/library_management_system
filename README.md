@@ -2,7 +2,8 @@
 
 A beginner-friendly command-line Library Management System built with
 Python 3 and SQLite. It supports full CRUD management of books and
-members, plus a borrowing/returning workflow for tracking loans.
+members, plus a borrowing/returning workflow for tracking loans, with
+data persisted locally for easy setup and use.
 
 ## Features
 
